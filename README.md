@@ -6,3 +6,5 @@
 - Co-author: Federico Ronchetti
 - Date 20121-03-09
 - 😎
+- Find me in pull requests please
+- 😸
